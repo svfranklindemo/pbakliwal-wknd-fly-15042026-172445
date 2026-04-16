@@ -1378,6 +1378,5 @@ export {
   toClassName,
   waitForFirstImage,
   wrapTextNodes,
-  hideSidekick,
-  decorateDefaultBlock
+  hideSidekick
 };
